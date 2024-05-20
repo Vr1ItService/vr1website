@@ -32,6 +32,9 @@ font-size:38px;
 h4{
 font-size:24px; 
  }
+h6{
+ font-size:2rem;
+}
 .button{
   background: hsla(206, 83%, 18%, 1);
 
