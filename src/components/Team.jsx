@@ -103,7 +103,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>B SRINIVAS RAO</h4>
-                                    <h6 className="mb-0">Co-Director</h6>
+                                    <h6 className="mb-0"style={{fontSize:'22px'}}>Co-Director</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -133,7 +133,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>VICTOR GERALD</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>Principal Advisor</h6>
+                                    <h6 className="mb-0"  style={{fontSize:'22px'}}>Principal Advisor</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -163,7 +163,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4 style={{fontSize:'23px'}}>VENNELA DASARI</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>HR Manager</h6>
+                                    <h6 className="mb-0"  style={{fontSize:'22px'}}>HR Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -203,7 +203,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>MATHEW HENRY CHODISEETY</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>IT Manager</h6>
+                                    <h6 className="mb-0" style={{fontSize:'22px'}}>IT Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -235,7 +235,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>NAGA PRASAD CHINTAPALLI</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>Project Manager</h6>
+                                    <h6 className="mb-0"  style={{fontSize:'22px'}}>Project Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -265,7 +265,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>B SHIVA NAGA RAJU</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>Admin Manager</h6>
+                                    <h6 className="mb-0"  style={{fontSize:'22px'}}>Admin Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -297,7 +297,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>YASHASWINI NAVILE Swamy</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>Accounts Manager</h6>
+                                    <h6 className="mb-0"  style={{fontSize:'22px'}}>Accounts Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -327,7 +327,7 @@ function Team() {
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
                                     <h4>SONALI <br />TORE</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'18px'}}>TEAM LEAD</h6>
+                                    <h6 className="mb-0"  style={{fontSize:'22px'}}}>TEAM LEAD</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
