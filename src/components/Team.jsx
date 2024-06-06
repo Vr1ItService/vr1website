@@ -248,12 +248,15 @@ function Team() {
                             </div>
                         </div>
                         {/* -------------------------------------------- */}
-                         <div className="col-md-3">
+                        
+
+                        
+                        <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
                                         <figure className="effect-jazz mb-0">
-                                            <img src={teamimg6}
+                                            <img src={teamimg7}
                                                 className="w-100" alt="abc" style={{ cursor: 'default' }} />
                                         </figure>
                                     </div>
@@ -269,17 +272,19 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>NAGA PRASAD CHINTAPALLI</h4>
-                                    <h6 className="mb-0"  style={{fontSize:'20px'}} >operation Head</h6>
+                                    <h4>B SHIVA NAGA RAJU</h4>
+                                    <h6 className="mb-0"  style={{fontSize:'20px'}} >Admin</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
                                 </div>
                             </div>
                         </div>
-                        {/* -------------------------------------------- */}
 
-                        
+
+
+                    {/* ------------------------------------------------------------ */}
+
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
