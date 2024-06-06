@@ -218,7 +218,7 @@ function Team() {
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
                                         <figure className="effect-jazz mb-0">
-                                            <img src={teamimg6}
+                                            <img src="https://firebasestorage.googleapis.com/v0/b/vr1site.appspot.com/o/20240606_021038.jpg?alt=media&token=22088bcf-2257-4fac-8b29-0dfb037f715c" alt="manager">
                                                 className="w-100" alt="abc" style={{ cursor: 'default' }} />
                                         </figure>
                                     </div>
