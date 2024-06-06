@@ -218,7 +218,7 @@ function Team() {
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
                                         <figure className="effect-jazz mb-0">
-                                            <img src="https://firebasestorage.googleapis.com/v0/b/vr1site.appspot.com/o/20240606_021038.jpg?alt=media&token=22088bcf-2257-4fac-8b29-0dfb037f715c" alt="manager">
+                                            <img src="https://firebasestorage.googleapis.com/v0/b/vr1site.appspot.com/o/20240606_021038.jpg?alt=media&token=22088bcf-2257-4fac-8b29-0dfb037f715c" alt="manager"></img>
                                                 className="w-100" alt="abc" style={{ cursor: 'default' }} />
                                         </figure>
                                     </div>
@@ -234,7 +234,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>Rahul<br> Srila</h4>
+                                    <h4>Rahul <br> Srila</br> </h4>
                                     <h6 className="mb-0"  style={{fontSize:'20px'}} >Project Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
