@@ -215,37 +215,7 @@ function Team() {
                         </div>
 
 
-                        {/* ------------------------------------- */}
-                         <div className="col-md-3">
-                            <div className="team_h1m position-relative clearfix">
-                                <div className="team_h1i clearfix">
-                                    <div className="grid">
-                                        <figure className="effect-jazz mb-0">
-                                            <img src={teamimg10}
-                                                className="w-100" alt="abc" style={{ cursor: 'default' }} />
-                                        </figure>
-                                    </div>
-                                </div><br />
-                                <div className="team_h1i1 position-absolute clearfix">
-                                    <ul className="social-network social-circle mb-0">
-                                        <li><a style={{color:'white', paddingTop:'5px'}} href="https://www.youtube.com/channel/UCChiisX-fvACE6g1CAhssSA" className="icoTwitter" title="Rss"><FaYoutube /></a></li>
-                                        <li><a style={{color:'white', paddingTop:'5px'}} href="https://www.facebook.com/profile.php?id=61557161950708&mibextid=rS40aB7S9Ucbxw6v" className="icoFacebook" title="Facebook"><FaFacebook /></a></li>
-                                        <li><a style={{color:'white', paddingTop:'5px'}} href="https://www.instagram.com/vr1_it_solutions?igsh=MW95cmxybXd1ejN5Yg==" className="icoRss" title="Twitter"><FaInstagram /></a></li>
-                                        <li><a style={{color:'white', paddingTop:'5px'}} href="https://www.linkedin.com/company/vr1-it-solutions/" className="icoLinkedin"title="Linkedin"><FaLinkedin /></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="team_h1mo position-relative clearfix">
-                                <div className="team_h1mo1 text-white clearfix">
-                                    <h4>Rahul <br> Srila</br> </h4>
-                                    <h6 className="mb-0"  style={{fontSize:'20px'}} >Project Manager</h6>
-                                </div>
-                                <div className="team_h1mo2 position-absolute clearfix">
-                                    <a href="#"><span><FaShareAlt /></span></a>
-                                </div>
-                            </div>
-                        </div>
-                        {/* -------------------------------------------- */}
+                        
                     
                         
                         <div className="col-md-3">
