@@ -10,6 +10,9 @@ import teamimg6 from '../Images/Team/middle2.jpg'
 import teamimg7 from '../Images/Team/middle3.jpg'
 import teamimg8 from '../Images/Team/middle4.jpg'
 import teamimg9 from '../Images/Team/middle5.jpg'
+import teamimg10 from '../Images/Team/middle6.jpg'
+
+
 
 function Team() {
     return (
@@ -218,7 +221,7 @@ function Team() {
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
                                         <figure className="effect-jazz mb-0">
-                                            <img src="https://firebasestorage.googleapis.com/v0/b/vr1site.appspot.com/o/20240606_021038.jpg?alt=media&token=22088bcf-2257-4fac-8b29-0dfb037f715c" alt="manager"
+                                            <img src={teamimg10}
                                                 className="w-100" alt="abc" style={{ cursor: 'default' }} />
                                         </figure>
                                     </div>
