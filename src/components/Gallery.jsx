@@ -40,7 +40,7 @@ function Gallery() {
                     <div className="row gallery_1">
                         <div className="col-md-4">
                             <div className="gallery_1i">
-                                <img src={galleryimg1}
+                                <img src={galleryimg0}
                                     data-bs-target="#exampleModal" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
                                 <div className="modal fade" id="exampleModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style={{ display: "none" }}>
                                     <div className="modal-dialog">
@@ -63,7 +63,7 @@ function Gallery() {
                         </div>
                         <div className="col-md-4">
                             <div className="gallery_1i">
-                                <img src={galleryimg2}
+                                <img src={galleryimg1}
                                     data-bs-target="#exampleModal1" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
                                 <div className="modal fade" id="exampleModal1" tabIndex="-1" aria-labelledby="exampleModalLabel1" aria-hidden="true">
                                     <div className="modal-dialog">
@@ -86,7 +86,7 @@ function Gallery() {
                         </div>
                         <div className="col-md-4">
                             <div className="gallery_1i">
-                                <img src={galleryimg3}
+                                <img src={galleryimg0}
                                     data-bs-target="#exampleModal2" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
                                 <div className="modal fade" id="exampleModal2" tabIndex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true" style={{ display: "none" }}>
                                     <div className="modal-dialog">
