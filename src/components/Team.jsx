@@ -114,6 +114,7 @@ function Team() {
                             </div>
                         </div>
                         {/* -------------------------------------------- */}
+                        <!--
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
@@ -142,7 +143,7 @@ function Team() {
                                     <a href="#"><span><FaShareAlt /></span></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         {/* ------------------------------------------------------------ */}
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
@@ -316,7 +317,7 @@ function Team() {
                         </div>
                     </div>
                     {/* ------------------------------------------------------------ */}
-                    <div className="row team_h2 mt-3" style={{ display: 'flex', justifyContent: 'center' }}>
+                  <!--  <div className="row team_h2 mt-3" style={{ display: 'flex', justifyContent: 'center' }}>
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
@@ -345,7 +346,7 @@ function Team() {
                                     <a href="#"><span><FaShareAlt /></span></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         {/* -------------------------- */}
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
