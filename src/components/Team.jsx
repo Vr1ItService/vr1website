@@ -113,7 +113,8 @@ function Team() {
                                 </div>
                             </div>
                         </div>
-                      
+
+                        
                         {/* ------------------------------------------------------------ */}
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
