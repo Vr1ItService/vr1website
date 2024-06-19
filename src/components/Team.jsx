@@ -43,14 +43,14 @@ function Team() {
                     </div>
 
 
-                    <div className="row team_h1 text-center" style={{ marginTop: '55px', display: 'flex', justifyContent: 'center'}}>
+                    <div className="row team_h1 text-center" style={{ marginTop: '55px'}}>
                         <div className="col-md-12">
                             <h6 className="color_1">TOP MANAGEMENT</h6>
 
                         </div>
                     </div>
                     {/* ------------------------------------- */}
-                    <div className="row team_h2 mt-3">
+                    <div className="row team_h2 mt-3" style={{ display: 'flex', justifyContent: 'center'}} >
 
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
