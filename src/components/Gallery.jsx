@@ -41,7 +41,7 @@ function Gallery() {
                         
                         <div className="col-md-4">
                             <div className="gallery_1i">
-                                <img src={galleryimg2}
+                                <img src={galleryimg1}
                                     data-bs-target="#exampleModal1" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
                                 <div className="modal fade" id="exampleModal1" tabIndex="-1" aria-labelledby="exampleModalLabel1" aria-hidden="true">
                                     <div className="modal-dialog">
