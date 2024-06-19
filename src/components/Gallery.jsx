@@ -38,7 +38,7 @@ function Gallery() {
                     </div>
                     {/* ----------------------------------------------- */}
                     <div className="row gallery_1">
-                        <div className="col-md-4">
+                     <!-- <div className="col-md-4">
                             <div className="gallery_1i">
                                 <img src={galleryimg0}
                                     data-bs-target="#exampleModal" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
@@ -60,7 +60,7 @@ function Gallery() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                         <div className="col-md-4">
                             <div className="gallery_1i">
                                 <img src={galleryimg1}
@@ -84,7 +84,7 @@ function Gallery() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                      <!--  <div className="col-md-4">
                             <div className="gallery_1i">
                                 <img src={galleryimg0}
                                     data-bs-target="#exampleModal2" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
@@ -106,7 +106,7 @@ function Gallery() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                     {/* -------------------------------------------- */}
                     <div className="row team_h1 text-center" style={{marginTop:'55px'}}>
