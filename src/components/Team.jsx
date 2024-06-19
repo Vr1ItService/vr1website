@@ -244,7 +244,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4 style= {{text-transform: 'uppercase'}} >RAHUL <br>SRILA</br></h4>
+                                   <h4 style={{ textTransform: 'uppercase' }}>RAHUL <br />SRILA</h4>
+
                                     <h6 className="mb-0"  style={{fontSize:'20px'}} >Project Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
