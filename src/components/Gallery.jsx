@@ -37,7 +37,7 @@ function Gallery() {
                         </div>
                     </div>
                     {/* ----------------------------------------------- */}
-                    <div className="row gallery_1">
+                    <div className="row gallery_1" style={{ display: 'flex', justifyContent: 'center'}}>
                         
                         <div className="col-md-4">
                             <div className="gallery_1i">
