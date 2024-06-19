@@ -28,8 +28,44 @@ function Gallery() {
                     </div>
                 </div>
             </section>
-           
+            {/* --------------------------------------------- */}
+            <section id="gal_pg">
+                <div className="container">
+                    <div className="row team_h1 text-center" style={{ marginTop: "55px" }}>
+                        <div className="col-md-12">
+                            <h6 className="color_1">EMPLOYEE WELCOME</h6>
+                        </div>
+                    </div>
+                    {/* ----------------------------------------------- */}
+                    <div className="row gallery_1">
+                        
+                        <div className="col-md-4">
+                            <div className="gallery_1i">
+                                <img src={galleryimg2}
+                                    data-bs-target="#exampleModal1" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
+                                <div className="modal fade" id="exampleModal1" tabIndex="-1" aria-labelledby="exampleModalLabel1" aria-hidden="true">
+                                    <div className="modal-dialog">
+                                        <div className="modal-content">
+                                            <div className="modal-header">
+                                                <h5 className="modal-title" id="exampleModalLabel1">Modal title</h5>
+                                                <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+                                            <div className="modal-body">
+                                                <img src="img/2.jpg" className="w-100" alt="abc" />
+                                            </div>
+                                            <div className="modal-footer">
+                                                <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                                <button type="button" className="btn btn-primary">Save changes</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                    </div>
                     {/* -------------------------------------------- */}
+           
                     <div className="row team_h1 text-center" style={{marginTop:'55px'}}>
                         <div className="col-md-12">
                             <h6 className="color_1">HOLY CELEBRATIONS</h6>
