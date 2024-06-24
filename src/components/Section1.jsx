@@ -51,7 +51,7 @@ function Section1() {
                 }, {
                     breakpoint: 520,
                     setting: {
-                        slidesToShow: 3
+                        slidesToShow: 4
                     }
                 }]
             });
@@ -75,10 +75,10 @@ function Section1() {
             }
         }
 
-        var loder = document.getElementById("preloder");
-        window.addEventListener("load", function () {
-            loder.style.display = "none";
-        });
+        // var loder = document.getElementById("preloder");
+        // window.addEventListener("load", function () {
+        //     loder.style.display = "none";
+        // });
     }, []); // empty dependency array ensures this effect runs only once, similar to componentDidMount()
 
     useEffect(() => {
@@ -621,14 +621,19 @@ function Section1() {
                     <div className="container">
                         <h2 className="text-center font-weight-bold" style={{ textAlign: 'center', padding: '20px' }}>Our Partners & Clients</h2>
                         <section className="customer-logos slider">
-                            <div className="slide"><img src={sectionimg15} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg16} alt="logo" /></div>
+                            {/* <div className="slide"><img src={sectionimg15} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg16} alt="logo" /></div> */}
+                            {/* <div className="slide"><img src={sectionimg18} alt="logo" /></div> */}
+                            {/* <div className="slide"><img src={sectionimg15} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg16} alt="logo" /></div> */}
+                            {/* <div className="slide"><img src={sectionimg18} alt="logo" /></div> */}
                             <div className="slide"><img src={sectionimg17} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg18} alt="logo" /></div>
                             <div className="slide"><img src={sectionimg19} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg15} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg16} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg18} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg19} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg19} alt="logo" /></div>
+                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
                         </section>
                     </div>
                 </section>

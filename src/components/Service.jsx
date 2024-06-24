@@ -211,15 +211,15 @@ function Service() {
             <p>We offer expert non-IT services, including consultancy and facility management. <br />Streamlining operations for diverse sectors, we ensure maximum efficiency and success. <br />Experience excellence beyond technology with VR1 IT Solutions Pvt Ltd.</p>
           </div>
         </div>
-        <div className="row serv_pg1 mt-3">
+         <div className="row serv_pg1 mt-3">
           <div className="col-md-4">
             <div className="serv_pg1i bg-white">
               <span><img src={ServiceImage14} alt="" /></span>
               <h4 className="mt-3">Logistic Management</h4>
               <p className="font_14">Unlock seamless logistics management with VR1 IT Solutions - your trusted partner beyond technology. From warehousing to distribution, we optimize operations for unparalleled efficiency. Elevate your supply chain with VR1 IT Solutions today.</p>
               <h6><a href="contact.html">Connect With Us<FaChevronRight className="font_14" /></a></h6>
-            </div>
-          </div>
+            </div> 
+          // </div> 
           <div className="col-md-4">
             <div className="serv_pg1i bg-white">
               <span><img src={ServiceImage15} alt="" /></span>
@@ -227,7 +227,7 @@ function Service() {
               <p className="font_14">Experience seamless import & export management solutions with VR1 IT Solutions - your trusted partner beyond technology. Elevate your global trade operations effortlessly.</p>
               <h6 ><a href="contact.html">Connect With Us<FaChevronRight className="font_14" /></a></h6>
             </div>
-          </div>
+           </div>
           <div className="col-md-4">
             <div className="serv_pg1i bg-white">
               <span><img src={ServiceImage16} alt="" /></span>

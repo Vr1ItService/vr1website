@@ -11,6 +11,7 @@ import galleryimg8 from '../Images/Gallery/birth2.png'
 import galleryimg9 from '../Images/Gallery/birth3.png'
 import galleryimg10 from '../Images/Gallery/shree1.gif'
 import galleryimg11 from '../Images/Gallery/shree3.gif'
+import { act } from 'react';
 
 
 function Gallery() {
@@ -41,6 +42,7 @@ function Gallery() {
                         <div className="col-md-4">
                             <div className="gallery_1i">
                                 <img src={galleryimg1}
+                                
                                     data-bs-target="#exampleModal" data-bs-toggle="modal" className="w-100" height="280" alt="abc" style={{ cursor: "default" }} />
                                 <div className="modal fade" id="exampleModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style={{ display: "none" }}>
                                     <div className="modal-dialog">
