@@ -26,22 +26,8 @@ function Footer() {
                             </ul>
                         </div>
                     </div>
-                    <div className="col-md-3">
-            <div className="footer_1i">
-                <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Our Services</h4>
-                <ul className="text-light font_14" style={{ listStyleType: 'none', padding: 0 }}>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Customers Services</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Business verification process</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Software development</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Logistic Management</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Big Data Analytics</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Operations Executive</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Application Development</a></li>
-                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="#">IT Services</a></li>
-                </ul>
-            </div>
-        </div>
-                    <div className="col-md-3">
+        
+        <div className="col-md-3">
             <div className="footer_1i1">
                 <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Locations</h4>
                 <div className="row footer_1i1i">
@@ -80,6 +66,30 @@ function Footer() {
                 </div>
             </div>
         </div>
+
+        <div className="col-md-3">
+            <div className="footer_1i">
+                <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Our Services</h4>
+                <ul className="text-light font_14" style={{ listStyleType: 'none', padding: 0 }}>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Customers Services</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Business verification process</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Software development</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Logistic Management</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Big Data Analytics</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Operations Executive</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="services.html">Application Development</a></li>
+                    <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="#">IT Services</a></li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
         <div className="col-md-3">
             <div className="footer_1i">
                 <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Connect Us</h4>

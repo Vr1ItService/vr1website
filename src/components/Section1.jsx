@@ -46,12 +46,12 @@ function Section1() {
                 responsive: [{
                     breakpoint: 768,
                     setting: {
-                        slidesToShow: 4
+                        slidesToShow: 6
                     }
                 }, {
                     breakpoint: 520,
                     setting: {
-                        slidesToShow: 4
+                        slidesToShow: 6
                     }
                 }]
             });
@@ -626,14 +626,19 @@ function Section1() {
                             {/* <div className="slide"><img src={sectionimg18} alt="logo" /></div> */}
                             {/* <div className="slide"><img src={sectionimg15} alt="logo" /></div>
                             <div className="slide"><img src={sectionimg16} alt="logo" /></div> */}
-                            {/* <div className="slide"><img src={sectionimg18} alt="logo" /></div> */}
-                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg19} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg19} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg19} alt="logo" /></div>
-                            <div className="slide"><img src={sectionimg17} alt="logo" /></div>
+                            {/* <div className="slide"><img src={sectionimg18} alt="logo" /></div> 
+                            <div className="slide "><img src={sectionimg17} alt="logo" className='w-50 h-50'/></div>*/}
+
+                            <div className="slide "><img src={sectionimg17} alt="logo" /></div>
+                            <div className="slide "><img src={sectionimg19} alt="logo" /></div>
+                            <div className="slide "><img src={sectionimg17} alt="logo" /></div>
+                            <div className="slide "><img src={sectionimg19} alt="logo" /></div>
+                            <div className="slide "><img src={sectionimg17} alt="logo" /></div>
+                            <div className="slide "><img src={sectionimg19} alt="logo" /></div>
+
+
+
+
                         </section>
                     </div>
                 </section>
