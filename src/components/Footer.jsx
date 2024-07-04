@@ -67,7 +67,35 @@ function Footer() {
             </div>
         </div>
 
+
         <div className="col-md-3">
+            <div className="footer_1i1">
+                <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Locations</h4>
+                <div className="row footer_1i1i">
+                    <div className="col-md-4 col-4">
+                        <div className="footer_1i1il">
+                            <div className="grid clearfix">
+                                <figure className="effect-jazz mb-0">
+                                    <a href="#"><img src={footerimg2} height="70" className="w-100" alt="Location 1" /></a>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-8 col-8 px-0">
+                        <div className="footer_1i1ir">
+                            <h6 className="text-light fw-normal font_14 mb-0" style={{ color: '#e7b343' }}>Head Office</h6>
+                            <h6><a className="text-light" href="https://maps.app.goo.gl/Q34CRm3iY1yvRr7o6" style={{ fontSize: 'small' }}>144, 6th floor, 2JRF+XCQ, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045</a></h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        {/* <div className="col-md-3">
             <div className="footer_1i">
                 <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Our Services</h4>
                 <ul className="text-light font_14" style={{ listStyleType: 'none', padding: 0 }}>
@@ -81,7 +109,7 @@ function Footer() {
                     <li><FontAwesomeIcon icon={faCircle} className="fa-fw" style={{ fontSize: '12px', marginRight: '5px' }} /> <a className="text-light" href="#">IT Services</a></li>
                 </ul>
             </div>
-        </div>
+        </div> */}
 
 
 
