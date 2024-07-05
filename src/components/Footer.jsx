@@ -6,6 +6,7 @@ import { faCircle } from '@fortawesome/free-solid-svg-icons';
 import footerimg1 from '../Images/Footer/VR1 Logo 1.png'
 import footerimg2 from '../Images/Footer/location1.png'
 import footerimg3 from '../Images/Footer/location2.png'
+import footerimg4 from '../Images/Footer/itoffice.png'
 
 
 
@@ -76,7 +77,7 @@ function Footer() {
                         <div className="footer_1i1il">
                             <div className="grid clearfix">
                                 <figure className="effect-jazz mb-0">
-                                    <a href="#"><img src={footerimg2} height="70" className="w-100" alt="Location 1" /></a>
+                                    <a href="#"><img src={footerimg4} height="70" className="w-100" alt="Location 1" /></a>
                                 </figure>
                             </div>
                         </div>

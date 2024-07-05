@@ -104,7 +104,9 @@ function Contact() {
                                             <strong>Head Office: </strong>
                                             144, 6th floor, 2JRF+XCQ, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045.<br/>
                                             <strong>Regional Office: </strong>
-                                            THE 27, 5th floor 27/A, beside Palle vindu restaurant, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032.
+                                            THE 27, 5th floor 27/A, beside Palle vindu restaurant, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032.<br/>
+                                            <strong>IT Branch Office: </strong>
+                                            201, 2nd Floor, Hive, Laxmi Cyber City, Whitefields, SpaceWhitefieldsKondapur, Kondapur, Telangana 500084.
                                         </p>
                                         <hr />
                                     </div>
@@ -123,6 +125,10 @@ function Contact() {
                                         <p><span className="fw-bold">TS - </span> +91 9154338849</p>
                                         <p><span className="fw-bold">KA -</span>  +91 9154338850</p>
                                         <p><span className="fw-bold">E-Mail -</span> <a href="#">info@vr1itsolutions.com</a></p>
+                                        <p><span className="fw-bold">TS - IT SERVICES </span> +91 9032395197, +1(210)-4011-700</p>
+                                        <p><span className="fw-bold">E-Mail -</span> <a href="#">Hr@vr1itsolutions.org</a></p>
+                                        <p><span className="fw-bold">E-Mail -</span> <a href="#">Contact@vr1itsolutions.info</a></p>
+
                                         <hr />
                                     </div>
                                 </div>
@@ -137,7 +143,7 @@ function Contact() {
                                     <div className="contact_2rr clearfix">
                                         <h4 className="mgt">Working Hours</h4>
                                         <hr className="hr_line" />
-                                        <p><span className="fw-bold">Mon - Sat -</span>  09am - 06pm</p>
+                                        <p><span className="fw-bold">Mon - Sat -</span>  24 HOURS</p>
                                     </div>
                                 </div>
                             </div>
@@ -151,6 +157,11 @@ function Contact() {
                     <div className="row contact_3 mt-4">
                         <div className="col-md-12">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15225.048691813297!2d78.34330348598571!3d17.447161421001816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9308ed845a0f%3A0x7b1d03c0c1e9644b!2sVR1%20IT%20Solutions%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1713441621095!5m2!1sen!2sin" height="450" style={{ border: '0', width: '100%' }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                    <div className="row contact_3 mt-4">
+                        <div className="col-md-12">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15224.295641904499!2d78.369587!3d17.4561762!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93004261915f%3A0x8a865513c3a4cd7!2sVR1%20IT%20solutions%20pvt%20ltd!5e0!3m2!1sen!2sin!4v1720178968278!5m2!1sen!2sin" height="450" style={{ border: '0', width: '100%' }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
