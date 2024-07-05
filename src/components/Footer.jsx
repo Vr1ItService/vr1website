@@ -70,7 +70,7 @@ function Footer() {
 
         <div className="col-md-3">
             <div className="footer_1i1">
-                <h4 className="color_2 mb-4" style={{ color: '#fff' }}>Locations</h4>
+                <h4 className="color_2 mb-4" style={{ color: '#fff' }}>IT Branch Office</h4>
                 <div className="row footer_1i1i">
                     <div className="col-md-4 col-4">
                         <div className="footer_1i1il">
@@ -83,10 +83,16 @@ function Footer() {
                     </div>
                     <div className="col-md-8 col-8 px-0">
                         <div className="footer_1i1ir">
-                            <h6 className="text-light fw-normal font_14 mb-0" style={{ color: '#e7b343' }}>Head Office</h6>
-                            <h6><a className="text-light" href="https://maps.app.goo.gl/Q34CRm3iY1yvRr7o6" style={{ fontSize: 'small' }}>144, 6th floor, 2JRF+XCQ, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045</a></h6>
+                            <h6 className="text-light fw-normal font_14 mb-0" style={{ color: '#e7b343' }}>Regional Office</h6>
+                            <h6><a className="text-light" href="https://maps.app.goo.gl/4WT1YWyZ348qugyK7" style={{ fontSize: 'small' }}>2nd floor, Hive Space 2.0, Whitefiled Road, Hitech City, Hyderabad-500084</a></h6>
                         </div>
                     </div>
+                </div>
+                <div>
+                <p className="text-light font_14"><a href="tel:+919032395197" style={{ color: '#fff' }}><FontAwesomeIcon icon={faPhone} className="me-1" /> +91 9032395197</a></p>
+                <p className="text-light font_14"><a href="tel:+1(210)-4011-700" style={{ color: '#fff' }}><FontAwesomeIcon icon={faPhone} className="me-1" /> +1(210)-4011-700</a></p>
+                <p className="text-light font_14"><a href="mailto:Hr@vr1itsolutions.org?subject=New Query" style={{ color: '#fff' }}><FontAwesomeIcon icon={faEnvelope} className="me-1" /> Hr@vr1itsolutions.org</a></p>
+                <p className="text-light font_14"><a href="mailto:Contact@vr1itsolutions.info?subject=New Query" style={{ color: '#fff'}}><FontAwesomeIcon icon={faEnvelope} className="me-1" /> Contact@vr1itsolutions.info</a></p>
                 </div>
             </div>
         </div>
