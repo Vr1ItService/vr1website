@@ -48,7 +48,7 @@ function Team() {
                         </div>
                     </div>
                     {/* ------------------------------------- */}
-                    <div className="row team_h2 mt-3">
+                    <div className="row team_h2 mt-3"  style={{ display: 'flex', justifyContent: 'center' }}>
 
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
@@ -203,7 +203,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4 style={{fontSize:'22px'}}>CH MATHEW HENRY</h4>
+                                    <h4 style={{fontSize:'22px'}}>MATHEW HENRY</h4>
                                     <h6 className="mb-0">Technical Head</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
