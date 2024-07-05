@@ -84,7 +84,7 @@ function Footer() {
                     <div className="col-md-8 col-8 px-0">
                         <div className="footer_1i1ir">
                             <h6 className="text-light fw-normal font_14 mb-0" style={{ color: '#e7b343' }}>Regional Office</h6>
-                            <h6><a className="text-light" href="https://maps.app.goo.gl/4WT1YWyZ348qugyK7" style={{ fontSize: 'small' }}>2nd floor, Hive Space 2.0, Whitefiled Road, Hitech City, Hyderabad-500084</a></h6>
+                            <h6><a className="text-light" href="https://maps.app.goo.gl/4WT1YWyZ348qugyK7" style={{ fontSize: 'small' }}>2nd floor, Hive Space 2.0,Divine Hive Space, Sy.No.10, Whitefiled Road, Hitech City, Hyderabad-500084</a></h6>
                         </div>
                     </div>
                 </div>
