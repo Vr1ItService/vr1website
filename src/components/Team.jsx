@@ -10,6 +10,7 @@ import teamimg6 from '../Images/Team/middle2.jpg'
 import teamimg7 from '../Images/Team/middle3.jpg'
 import teamimg8 from '../Images/Team/middle4.jpg'
 import teamimg9 from '../Images/Team/middle5.jpg'
+import teamimg10 from '../Images/Team/middle6.jpg'
 
 function Team() {
     return (
@@ -102,8 +103,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>B SRINIVAS RAO</h3>
-                                    <h5 className="mb-0">Co-Director</h5>
+                                    <h4>B SRINIVAS RAO</h4>
+                                    <h6 className="mb-0">Co-Director</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -111,7 +112,7 @@ function Team() {
                             </div>
                         </div>
                         {/* -------------------------------------------- */}
-                        <div className="col-md-3">
+                        {/*  <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
@@ -132,15 +133,15 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>VICTOR GERALD</h3>
-                                    <h5 className="mb-0">Principal Advisor</h5>
+                                    <h4>VICTOR GERALD</h4>
+                                    <h6 className="mb-0">Principal Advisor</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
                                 </div>
                             </div>
                         </div>
-                        {/* ------------------------------------------------------------ */}
+                       ------------------------------------------------------------ */}
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
@@ -162,8 +163,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3 style={{fontSize:'23px'}}>VENNELA DASARI</h3>
-                                    <h5 className="mb-0">HR Manager</h5>
+                                    <h4>VENNELA DASARI</h4>
+                                    <h6 className="mb-0">HR Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -202,8 +203,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>MATHEW HENRY CHODISEETY</h3>
-                                    <h5 className="mb-0">Technical Head</h5>
+                                    <h4>MATHEW HENRY CHODISEETY</h4>
+                                    <h6 className="mb-0">Technical Head</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -217,7 +218,7 @@ function Team() {
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
                                         <figure className="effect-jazz mb-0">
-                                            <img src={teamimg6}
+                                            <img src={teamimg10}
                                                 className="w-100" alt="abc" style={{ cursor: 'default' }} />
                                         </figure>
                                     </div>
@@ -233,8 +234,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>Rahul Srila</h3>
-                                    <h5 className="mb-0">Project Manager</h5>
+                                    <h4>Rahul Srila</h4>
+                                    <h6 className="mb-0">Project Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -265,8 +266,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>NAGA PRASAD CHINTAPALLI</h3>
-                                    <h5 className="mb-0">Operation Head</h5>
+                                    <h4>NAGA PRASAD CHINTAPALLI</h4>
+                                    <h6 className="mb-0">Operation Head</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -295,8 +296,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>B SHIVA NAGA RAJU</h3>
-                                    <h5 className="mb-0">Admin</h5>
+                                    <h4>B SHIVA NAGA RAJU</h4>
+                                    <h6 className="mb-0">Admin</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -306,7 +307,7 @@ function Team() {
                     </div>
                     {/* ------------------------------------------------------------ */}
                     <div className="row team_h2 mt-3" style={{ display: 'flex', justifyContent: 'center' }}>
-                        <div className="col-md-3">
+                       {/* <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
                                     <div className="grid">
@@ -327,15 +328,15 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>YASHASWINI NAVILE Swamy</h3>
-                                    <h5 className="mb-0">Accountant</h5>
+                                    <h4>YASHASWINI NAVILE Swamy</h4>
+                                    <h6 className="mb-0">Accountant</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
                                 </div>
                             </div>
                         </div>
-                        {/* -------------------------- */}
+                         -------------------------- */}
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
@@ -357,8 +358,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>SONALI <br />TORE</h3>
-                                    <h5 className="mb-0" style={{fontSize:'1.7rem'}}>TEAM LEAD</h5>
+                                    <h4>SONALI <br />TORE</h4>
+                                    <h6 className="mb-0" style={{fontSize:'1.7rem'}}>TEAM LEAD</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
