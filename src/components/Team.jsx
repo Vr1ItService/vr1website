@@ -71,8 +71,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h3>SRIRAM THOTA</h3>
-                                    <h5 className="mb-0">Founder & Director</h5>
+                                    <h4>SRIRAM THOTA</h4>
+                                    <h6 className="mb-0">Founder & Director</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
@@ -163,7 +163,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>VENNELA DASARI</h4>
+                                    <h4 style={{ fontSize: '23px'}}>VENNELA DASARI</h4>
                                     <h6 className="mb-0">HR Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
@@ -203,7 +203,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>MATHEW HENRY CHODISEETY</h4>
+                                    <h4 style={{fontSize:'22px'}}>CH MATHEW HENRY</h4>
                                     <h6 className="mb-0">Technical Head</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
@@ -234,7 +234,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>Rahul Srila</h4>
+                                    <h4 style={{fontSize:'23px'}}>Rahul Srila</h4>
                                     <h6 className="mb-0">Project Manager</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
@@ -266,7 +266,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>NAGA PRASAD CHINTAPALLI</h4>
+                                    <h4 style={{fontSize:'22px'}}>CH NAGA PRASAD</h4>
                                     <h6 className="mb-0">Operation Head</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
@@ -296,7 +296,7 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>B SHIVA NAGA RAJU</h4>
+                                    <h4 style={{fontSize:'22px'}}>B SHIVA NAGA</h4>
                                     <h6 className="mb-0">Admin</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
@@ -358,8 +358,8 @@ function Team() {
                             </div>
                             <div className="team_h1mo position-relative clearfix">
                                 <div className="team_h1mo1 text-white clearfix">
-                                    <h4>SONALI <br />TORE</h4>
-                                    <h6 className="mb-0" style={{fontSize:'1.7rem'}}>TEAM LEAD</h6>
+                                    <h4 style={{fontSize:'22px'}}>SONALI TORE</h4>
+                                    <h6 className="mb-0" >TEAM LEAD</h6>
                                 </div>
                                 <div className="team_h1mo2 position-absolute clearfix">
                                     <a href="#"><span><FaShareAlt /></span></a>
