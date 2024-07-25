@@ -212,7 +212,7 @@ function Team() {
                             </div>
                         </div> 
 
-                        {/* ------------------------------------- */}
+                        {/* ------------------------------------- 
                         <div className="col-md-3">
                             <div className="team_h1m position-relative clearfix">
                                 <div className="team_h1i clearfix">
@@ -241,7 +241,7 @@ function Team() {
                                     <a href="#"><span><FaShareAlt /></span></a>
                                 </div>
                             </div>
-                        </div>
+                        </div>*/}
 
 
                         {/* ------------------------------------- */}
